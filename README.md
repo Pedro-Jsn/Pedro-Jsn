@@ -9,6 +9,7 @@ Gosto de me desafiar no mundo da programação, sempre tentando coisas novas e i
 ```kotlin
 object **Pedro** {
  val name = "Pedro Henrique Jesuino Varela"
+ val onesentence = "Je connais mes limites, c'est pourquoi je vais au-delà."
  
  val primarySkillset = "Comunicação, liderança, empatia, cooperação."
  val languages = listOf("Java", "PHP", "JavaScript", "SQL") 
