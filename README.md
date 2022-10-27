@@ -38,9 +38,9 @@ object **Pedro** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Pedro-Jsn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Jsn&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Jsn&theme=dracula&hide_langs_below=1&count_private=true" />
 </a>
 
 <a href="https://github.com/Pedro-Jsn">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Jsn&show_icons=true&theme=dracula&line_height=27" alt="**Pedro Jesuino** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Jsn&show_icons=true&theme=dracula&line_height=27&count_private=true" alt="**Pedro Jesuino** github stats"/>
 </a>
